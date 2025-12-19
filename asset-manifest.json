@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.5fe1e878.chunk.css",
-    "main.js": "./static/js/main.c2b49aba.chunk.js",
-    "main.js.map": "./static/js/main.c2b49aba.chunk.js.map",
+    "main.css": "./static/css/main.e4d9ca5d.chunk.css",
+    "main.js": "./static/js/main.972230fe.chunk.js",
+    "main.js.map": "./static/js/main.972230fe.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
-    "static/js/2.10d4ceae.chunk.js": "./static/js/2.10d4ceae.chunk.js",
-    "static/js/2.10d4ceae.chunk.js.map": "./static/js/2.10d4ceae.chunk.js.map",
+    "static/js/2.e40fc2ef.chunk.js": "./static/js/2.e40fc2ef.chunk.js",
+    "static/js/2.e40fc2ef.chunk.js.map": "./static/js/2.e40fc2ef.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.aee1c58b91c5af8f422f1003b308219b.js": "./precache-manifest.aee1c58b91c5af8f422f1003b308219b.js",
+    "precache-manifest.8445038da89fc2b30835cf68051b80d8.js": "./precache-manifest.8445038da89fc2b30835cf68051b80d8.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.5fe1e878.chunk.css.map": "./static/css/main.5fe1e878.chunk.css.map",
+    "static/css/main.e4d9ca5d.chunk.css.map": "./static/css/main.e4d9ca5d.chunk.css.map",
     "static/media/Aditya1.jpeg": "./static/media/Aditya1.60d54019.jpeg",
     "static/media/Aditya10.jpeg": "./static/media/Aditya10.bf30a46c.jpeg",
     "static/media/Aditya2.jpeg": "./static/media/Aditya2.8ac4d52f.jpeg",
@@ -21,6 +21,7 @@
     "static/media/Aditya7.jpeg": "./static/media/Aditya7.510d4885.jpeg",
     "static/media/Aditya8.jpeg": "./static/media/Aditya8.d39d6328.jpeg",
     "static/media/Aditya9.jpeg": "./static/media/Aditya9.9e38811b.jpeg",
+    "static/media/Aditya_animated.jpg": "./static/media/Aditya_animated.06080108.jpg",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Portfolio_profile.jpeg": "./static/media/Portfolio_profile.4377cbe7.jpeg",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
@@ -68,8 +69,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fb7e7b0c.js",
-    "static/js/2.10d4ceae.chunk.js",
-    "static/css/main.5fe1e878.chunk.css",
-    "static/js/main.c2b49aba.chunk.js"
+    "static/js/2.e40fc2ef.chunk.js",
+    "static/css/main.e4d9ca5d.chunk.css",
+    "static/js/main.972230fe.chunk.js"
   ]
 }
